@@ -5,12 +5,12 @@
 [general]
 name=Dynamic Plot
 qgisMinimumVersion=3.0
-description=This plugin saves the attributes od the selected vector layer as a CSV file.
+description=QGIS plugin to create a plot instance that updates dynamically.
 version=0.1
 author=Caterina Giacomelli
 email=c.giacomelli1@icloud.com
 
-about=This plugin saves the attributes od the selected vector layer as a CSV file.
+about=QGIS plugin to create a plot instance that updates dynamically.
 
 tracker=http://bugs
 repository=http://repo
@@ -23,7 +23,7 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=python,qgis
 
 homepage=http://homepage
 category=Vector
